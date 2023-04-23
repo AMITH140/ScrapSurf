@@ -15,3 +15,5 @@ Install the required dependencies by running pip install -r requirements.txt.
 Modify the config.ini file to specify the website URL and the data to extract.
 Run the scraper by running python scraper.py.
 and its as simple as that 
+
+#BECAUSE I WAS NOT ABLE TO MEET THE SIZE UPLOAD REQUIREMENTS I WOULD BE UPLOADING THE EXE FILE IN MY WEBSITE = # amithvss.ezyro.com
