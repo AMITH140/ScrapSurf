@@ -1,4 +1,4 @@
-# WEBSCRAPPER
+# ScrapSurf
 This is a simple web scraper that allows you to extract data from websites and save it to a CSV file. The scraper is built using Python and the Beautiful Soup library, and it can be easily customized to suit your specific needs.
 
 #Features
